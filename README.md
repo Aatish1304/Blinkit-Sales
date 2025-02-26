@@ -1,4 +1,5 @@
 # Blinkit-Sales
+Dashboard Link : https://app.powerbi.com/groups/me/reports/a05c7ee0-c079-4350-b586-f212ed1b976e/85792673d9149618bfaa?experience=power-bi
 
 This Power BI dashboard provides an interactive sales analysis for Blinkit, an online grocery platform, helping businesses gain insights into sales performance, customer behavior, and product trends. The dashboard features key metrics such as total sales, average sales, number of items sold, and customer ratings. It also includes outlet performance analysis based on location, size, and type, allowing businesses to identify high-performing and underperforming areas.
 
